@@ -1,0 +1,10 @@
+Given an array arr[] of length N, the task is to find the number of strictly increasing sub-sequences in the given array.
+
+
+in this program I use
+
+Advanced Data Structure
+Arrays
+Dynamic Programming
+Segment-Tree
+subsequence

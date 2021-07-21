@@ -1,0 +1,6 @@
+C:\Users\rupatro\OneDrive - Microsoft\Desktop\project\incr_subsequences_of_size_k\incr_subsequences_of_size_k\bin\Debug\incr_subsequences_of_size_k.exe.config
+C:\Users\rupatro\OneDrive - Microsoft\Desktop\project\incr_subsequences_of_size_k\incr_subsequences_of_size_k\bin\Debug\incr_subsequences_of_size_k.exe
+C:\Users\rupatro\OneDrive - Microsoft\Desktop\project\incr_subsequences_of_size_k\incr_subsequences_of_size_k\bin\Debug\incr_subsequences_of_size_k.pdb
+C:\Users\rupatro\OneDrive - Microsoft\Desktop\project\incr_subsequences_of_size_k\incr_subsequences_of_size_k\obj\Debug\incr_subsequences_of_size_k.csproj.CoreCompileInputs.cache
+C:\Users\rupatro\OneDrive - Microsoft\Desktop\project\incr_subsequences_of_size_k\incr_subsequences_of_size_k\obj\Debug\incr_subsequences_of_size_k.exe
+C:\Users\rupatro\OneDrive - Microsoft\Desktop\project\incr_subsequences_of_size_k\incr_subsequences_of_size_k\obj\Debug\incr_subsequences_of_size_k.pdb
