@@ -1,0 +1,7 @@
+C:\Users\rupatro\Desktop\my programs\majority element _divide and conqure\majority_element\majority_element\bin\Debug\majority_element.exe.config
+C:\Users\rupatro\Desktop\my programs\majority element _divide and conqure\majority_element\majority_element\bin\Debug\majority_element.exe
+C:\Users\rupatro\Desktop\my programs\majority element _divide and conqure\majority_element\majority_element\bin\Debug\majority_element.pdb
+C:\Users\rupatro\Desktop\my programs\majority element _divide and conqure\majority_element\majority_element\obj\Debug\majority_element.csprojResolveAssemblyReference.cache
+C:\Users\rupatro\Desktop\my programs\majority element _divide and conqure\majority_element\majority_element\obj\Debug\majority_element.csproj.CoreCompileInputs.cache
+C:\Users\rupatro\Desktop\my programs\majority element _divide and conqure\majority_element\majority_element\obj\Debug\majority_element.exe
+C:\Users\rupatro\Desktop\my programs\majority element _divide and conqure\majority_element\majority_element\obj\Debug\majority_element.pdb

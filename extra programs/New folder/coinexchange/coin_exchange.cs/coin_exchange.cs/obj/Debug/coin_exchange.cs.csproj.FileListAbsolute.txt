@@ -1,0 +1,7 @@
+C:\Users\rupatro\Desktop\my programs\New folder\coinexchange\coin_exchange.cs\coin_exchange.cs\bin\Debug\coin_exchange.cs.exe.config
+C:\Users\rupatro\Desktop\my programs\New folder\coinexchange\coin_exchange.cs\coin_exchange.cs\bin\Debug\coin_exchange.cs.exe
+C:\Users\rupatro\Desktop\my programs\New folder\coinexchange\coin_exchange.cs\coin_exchange.cs\bin\Debug\coin_exchange.cs.pdb
+C:\Users\rupatro\Desktop\my programs\New folder\coinexchange\coin_exchange.cs\coin_exchange.cs\obj\Debug\coin_exchange.cs.csprojResolveAssemblyReference.cache
+C:\Users\rupatro\Desktop\my programs\New folder\coinexchange\coin_exchange.cs\coin_exchange.cs\obj\Debug\coin_exchange.cs.csproj.CoreCompileInputs.cache
+C:\Users\rupatro\Desktop\my programs\New folder\coinexchange\coin_exchange.cs\coin_exchange.cs\obj\Debug\coin_exchange.cs.exe
+C:\Users\rupatro\Desktop\my programs\New folder\coinexchange\coin_exchange.cs\coin_exchange.cs\obj\Debug\coin_exchange.cs.pdb

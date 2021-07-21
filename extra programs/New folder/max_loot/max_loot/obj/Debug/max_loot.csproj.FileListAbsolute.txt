@@ -1,0 +1,7 @@
+C:\Users\rupatro\Desktop\my programs\New folder\max_loot\max_loot\bin\Debug\max_loot.exe.config
+C:\Users\rupatro\Desktop\my programs\New folder\max_loot\max_loot\bin\Debug\max_loot.exe
+C:\Users\rupatro\Desktop\my programs\New folder\max_loot\max_loot\bin\Debug\max_loot.pdb
+C:\Users\rupatro\Desktop\my programs\New folder\max_loot\max_loot\obj\Debug\max_loot.csprojResolveAssemblyReference.cache
+C:\Users\rupatro\Desktop\my programs\New folder\max_loot\max_loot\obj\Debug\max_loot.csproj.CoreCompileInputs.cache
+C:\Users\rupatro\Desktop\my programs\New folder\max_loot\max_loot\obj\Debug\max_loot.exe
+C:\Users\rupatro\Desktop\my programs\New folder\max_loot\max_loot\obj\Debug\max_loot.pdb

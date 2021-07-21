@@ -1,0 +1,7 @@
+C:\Users\rupatro\Desktop\my programs\New folder\coinexchange\partition3\partition3.cs\partition3.cs\obj\Debug\partition3.cs.csprojResolveAssemblyReference.cache
+C:\Users\rupatro\Desktop\my programs\New folder\coinexchange\partition3\partition3.cs\partition3.cs\obj\Debug\partition3.cs.csproj.CoreCompileInputs.cache
+C:\Users\rupatro\Desktop\my programs\New folder\coinexchange\partition3\partition3.cs\partition3.cs\bin\Debug\partition3.cs.exe.config
+C:\Users\rupatro\Desktop\my programs\New folder\coinexchange\partition3\partition3.cs\partition3.cs\bin\Debug\partition3.cs.exe
+C:\Users\rupatro\Desktop\my programs\New folder\coinexchange\partition3\partition3.cs\partition3.cs\bin\Debug\partition3.cs.pdb
+C:\Users\rupatro\Desktop\my programs\New folder\coinexchange\partition3\partition3.cs\partition3.cs\obj\Debug\partition3.cs.exe
+C:\Users\rupatro\Desktop\my programs\New folder\coinexchange\partition3\partition3.cs\partition3.cs\obj\Debug\partition3.cs.pdb

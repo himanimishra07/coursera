@@ -1,0 +1,7 @@
+C:\Users\rupatro\Desktop\my programs\New folder\coinexchange\lcs2\lcs3\lcs3.cs\lcs3.cs\bin\Debug\lcs3.cs.exe.config
+C:\Users\rupatro\Desktop\my programs\New folder\coinexchange\lcs2\lcs3\lcs3.cs\lcs3.cs\bin\Debug\lcs3.cs.exe
+C:\Users\rupatro\Desktop\my programs\New folder\coinexchange\lcs2\lcs3\lcs3.cs\lcs3.cs\bin\Debug\lcs3.cs.pdb
+C:\Users\rupatro\Desktop\my programs\New folder\coinexchange\lcs2\lcs3\lcs3.cs\lcs3.cs\obj\Debug\lcs3.cs.csprojResolveAssemblyReference.cache
+C:\Users\rupatro\Desktop\my programs\New folder\coinexchange\lcs2\lcs3\lcs3.cs\lcs3.cs\obj\Debug\lcs3.cs.csproj.CoreCompileInputs.cache
+C:\Users\rupatro\Desktop\my programs\New folder\coinexchange\lcs2\lcs3\lcs3.cs\lcs3.cs\obj\Debug\lcs3.cs.exe
+C:\Users\rupatro\Desktop\my programs\New folder\coinexchange\lcs2\lcs3\lcs3.cs\lcs3.cs\obj\Debug\lcs3.cs.pdb

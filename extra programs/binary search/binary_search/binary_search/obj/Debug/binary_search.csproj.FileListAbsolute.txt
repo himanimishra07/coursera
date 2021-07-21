@@ -1,0 +1,7 @@
+C:\Users\rupatro\Desktop\my programs\binary search\binary_search\binary_search\bin\Debug\binary_search.exe.config
+C:\Users\rupatro\Desktop\my programs\binary search\binary_search\binary_search\bin\Debug\binary_search.exe
+C:\Users\rupatro\Desktop\my programs\binary search\binary_search\binary_search\bin\Debug\binary_search.pdb
+C:\Users\rupatro\Desktop\my programs\binary search\binary_search\binary_search\obj\Debug\binary_search.csprojResolveAssemblyReference.cache
+C:\Users\rupatro\Desktop\my programs\binary search\binary_search\binary_search\obj\Debug\binary_search.csproj.CoreCompileInputs.cache
+C:\Users\rupatro\Desktop\my programs\binary search\binary_search\binary_search\obj\Debug\binary_search.exe
+C:\Users\rupatro\Desktop\my programs\binary search\binary_search\binary_search\obj\Debug\binary_search.pdb

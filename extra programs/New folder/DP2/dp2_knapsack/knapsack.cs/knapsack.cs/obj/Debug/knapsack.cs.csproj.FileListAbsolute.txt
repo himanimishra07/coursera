@@ -1,0 +1,7 @@
+C:\Users\rupatro\Desktop\my programs\New folder\DP2\dp2_knapsack\knapsack.cs\knapsack.cs\obj\Debug\knapsack.cs.csprojResolveAssemblyReference.cache
+C:\Users\rupatro\Desktop\my programs\New folder\DP2\dp2_knapsack\knapsack.cs\knapsack.cs\obj\Debug\knapsack.cs.csproj.CoreCompileInputs.cache
+C:\Users\rupatro\Desktop\my programs\New folder\DP2\dp2_knapsack\knapsack.cs\knapsack.cs\bin\Debug\knapsack.cs.exe.config
+C:\Users\rupatro\Desktop\my programs\New folder\DP2\dp2_knapsack\knapsack.cs\knapsack.cs\bin\Debug\knapsack.cs.exe
+C:\Users\rupatro\Desktop\my programs\New folder\DP2\dp2_knapsack\knapsack.cs\knapsack.cs\bin\Debug\knapsack.cs.pdb
+C:\Users\rupatro\Desktop\my programs\New folder\DP2\dp2_knapsack\knapsack.cs\knapsack.cs\obj\Debug\knapsack.cs.exe
+C:\Users\rupatro\Desktop\my programs\New folder\DP2\dp2_knapsack\knapsack.cs\knapsack.cs\obj\Debug\knapsack.cs.pdb

@@ -1,0 +1,7 @@
+C:\Users\rupatro\Desktop\my programs\the minimum number of coins with denominations 1, 5, 10 that changes m\money_exchange\money_exchange\bin\Debug\money_exchange.exe.config
+C:\Users\rupatro\Desktop\my programs\the minimum number of coins with denominations 1, 5, 10 that changes m\money_exchange\money_exchange\bin\Debug\money_exchange.exe
+C:\Users\rupatro\Desktop\my programs\the minimum number of coins with denominations 1, 5, 10 that changes m\money_exchange\money_exchange\bin\Debug\money_exchange.pdb
+C:\Users\rupatro\Desktop\my programs\the minimum number of coins with denominations 1, 5, 10 that changes m\money_exchange\money_exchange\obj\Debug\money_exchange.csprojResolveAssemblyReference.cache
+C:\Users\rupatro\Desktop\my programs\the minimum number of coins with denominations 1, 5, 10 that changes m\money_exchange\money_exchange\obj\Debug\money_exchange.csproj.CoreCompileInputs.cache
+C:\Users\rupatro\Desktop\my programs\the minimum number of coins with denominations 1, 5, 10 that changes m\money_exchange\money_exchange\obj\Debug\money_exchange.exe
+C:\Users\rupatro\Desktop\my programs\the minimum number of coins with denominations 1, 5, 10 that changes m\money_exchange\money_exchange\obj\Debug\money_exchange.pdb

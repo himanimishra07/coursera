@@ -1,0 +1,7 @@
+C:\Users\rupatro\Desktop\my programs\Least_common_multiplier\Least_common_multiplier\bin\Debug\Least_common_multiplier.exe.config
+C:\Users\rupatro\Desktop\my programs\Least_common_multiplier\Least_common_multiplier\bin\Debug\Least_common_multiplier.exe
+C:\Users\rupatro\Desktop\my programs\Least_common_multiplier\Least_common_multiplier\bin\Debug\Least_common_multiplier.pdb
+C:\Users\rupatro\Desktop\my programs\Least_common_multiplier\Least_common_multiplier\obj\Debug\Least_common_multiplier.csprojResolveAssemblyReference.cache
+C:\Users\rupatro\Desktop\my programs\Least_common_multiplier\Least_common_multiplier\obj\Debug\Least_common_multiplier.csproj.CoreCompileInputs.cache
+C:\Users\rupatro\Desktop\my programs\Least_common_multiplier\Least_common_multiplier\obj\Debug\Least_common_multiplier.exe
+C:\Users\rupatro\Desktop\my programs\Least_common_multiplier\Least_common_multiplier\obj\Debug\Least_common_multiplier.pdb

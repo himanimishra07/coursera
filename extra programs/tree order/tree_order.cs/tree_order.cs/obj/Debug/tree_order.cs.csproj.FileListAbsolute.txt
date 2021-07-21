@@ -1,0 +1,7 @@
+C:\Users\rupatro\Desktop\my programs\tree order\tree_order.cs\tree_order.cs\bin\Debug\tree_order.cs.exe.config
+C:\Users\rupatro\Desktop\my programs\tree order\tree_order.cs\tree_order.cs\bin\Debug\tree_order.cs.exe
+C:\Users\rupatro\Desktop\my programs\tree order\tree_order.cs\tree_order.cs\bin\Debug\tree_order.cs.pdb
+C:\Users\rupatro\Desktop\my programs\tree order\tree_order.cs\tree_order.cs\obj\Debug\tree_order.cs.csprojResolveAssemblyReference.cache
+C:\Users\rupatro\Desktop\my programs\tree order\tree_order.cs\tree_order.cs\obj\Debug\tree_order.cs.csproj.CoreCompileInputs.cache
+C:\Users\rupatro\Desktop\my programs\tree order\tree_order.cs\tree_order.cs\obj\Debug\tree_order.cs.exe
+C:\Users\rupatro\Desktop\my programs\tree order\tree_order.cs\tree_order.cs\obj\Debug\tree_order.cs.pdb

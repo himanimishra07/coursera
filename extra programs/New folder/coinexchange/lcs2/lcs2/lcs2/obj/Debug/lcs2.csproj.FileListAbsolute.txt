@@ -1,0 +1,7 @@
+C:\Users\rupatro\Desktop\my programs\New folder\coinexchange\lcs2\lcs2\lcs2\bin\Debug\lcs2.exe.config
+C:\Users\rupatro\Desktop\my programs\New folder\coinexchange\lcs2\lcs2\lcs2\bin\Debug\lcs2.exe
+C:\Users\rupatro\Desktop\my programs\New folder\coinexchange\lcs2\lcs2\lcs2\bin\Debug\lcs2.pdb
+C:\Users\rupatro\Desktop\my programs\New folder\coinexchange\lcs2\lcs2\lcs2\obj\Debug\lcs2.csprojResolveAssemblyReference.cache
+C:\Users\rupatro\Desktop\my programs\New folder\coinexchange\lcs2\lcs2\lcs2\obj\Debug\lcs2.csproj.CoreCompileInputs.cache
+C:\Users\rupatro\Desktop\my programs\New folder\coinexchange\lcs2\lcs2\lcs2\obj\Debug\lcs2.exe
+C:\Users\rupatro\Desktop\my programs\New folder\coinexchange\lcs2\lcs2\lcs2\obj\Debug\lcs2.pdb

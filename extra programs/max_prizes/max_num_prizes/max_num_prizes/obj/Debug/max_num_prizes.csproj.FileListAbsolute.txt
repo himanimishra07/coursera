@@ -1,0 +1,7 @@
+C:\Users\rupatro\Desktop\my programs\max_prizes\max_num_prizes\max_num_prizes\bin\Debug\max_num_prizes.exe.config
+C:\Users\rupatro\Desktop\my programs\max_prizes\max_num_prizes\max_num_prizes\bin\Debug\max_num_prizes.exe
+C:\Users\rupatro\Desktop\my programs\max_prizes\max_num_prizes\max_num_prizes\bin\Debug\max_num_prizes.pdb
+C:\Users\rupatro\Desktop\my programs\max_prizes\max_num_prizes\max_num_prizes\obj\Debug\max_num_prizes.csprojResolveAssemblyReference.cache
+C:\Users\rupatro\Desktop\my programs\max_prizes\max_num_prizes\max_num_prizes\obj\Debug\max_num_prizes.csproj.CoreCompileInputs.cache
+C:\Users\rupatro\Desktop\my programs\max_prizes\max_num_prizes\max_num_prizes\obj\Debug\max_num_prizes.exe
+C:\Users\rupatro\Desktop\my programs\max_prizes\max_num_prizes\max_num_prizes\obj\Debug\max_num_prizes.pdb

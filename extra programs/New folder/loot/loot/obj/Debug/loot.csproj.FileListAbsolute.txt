@@ -1,0 +1,7 @@
+C:\Users\rupatro\Desktop\my programs\New folder\loot\loot\bin\Debug\loot.exe.config
+C:\Users\rupatro\Desktop\my programs\New folder\loot\loot\bin\Debug\loot.exe
+C:\Users\rupatro\Desktop\my programs\New folder\loot\loot\bin\Debug\loot.pdb
+C:\Users\rupatro\Desktop\my programs\New folder\loot\loot\obj\Debug\loot.csprojResolveAssemblyReference.cache
+C:\Users\rupatro\Desktop\my programs\New folder\loot\loot\obj\Debug\loot.csproj.CoreCompileInputs.cache
+C:\Users\rupatro\Desktop\my programs\New folder\loot\loot\obj\Debug\loot.exe
+C:\Users\rupatro\Desktop\my programs\New folder\loot\loot\obj\Debug\loot.pdb

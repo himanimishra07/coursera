@@ -1,0 +1,7 @@
+C:\Users\rupatro\Desktop\my programs\New folder\max revenue\maximum revenue\maximum revenue\bin\Debug\maximum revenue.exe.config
+C:\Users\rupatro\Desktop\my programs\New folder\max revenue\maximum revenue\maximum revenue\bin\Debug\maximum revenue.exe
+C:\Users\rupatro\Desktop\my programs\New folder\max revenue\maximum revenue\maximum revenue\bin\Debug\maximum revenue.pdb
+C:\Users\rupatro\Desktop\my programs\New folder\max revenue\maximum revenue\maximum revenue\obj\Debug\maximum revenue.csprojResolveAssemblyReference.cache
+C:\Users\rupatro\Desktop\my programs\New folder\max revenue\maximum revenue\maximum revenue\obj\Debug\maximum revenue.csproj.CoreCompileInputs.cache
+C:\Users\rupatro\Desktop\my programs\New folder\max revenue\maximum revenue\maximum revenue\obj\Debug\maximum revenue.exe
+C:\Users\rupatro\Desktop\my programs\New folder\max revenue\maximum revenue\maximum revenue\obj\Debug\maximum revenue.pdb

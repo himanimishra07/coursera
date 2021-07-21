@@ -1,0 +1,7 @@
+C:\Users\rupatro\Desktop\my programs\Greatest_common_divisor\Greatest_common_divisor\obj\Debug\Greatest_common_divisor.csprojResolveAssemblyReference.cache
+C:\Users\rupatro\Desktop\my programs\Greatest_common_divisor\Greatest_common_divisor\obj\Debug\Greatest_common_divisor.csproj.CoreCompileInputs.cache
+C:\Users\rupatro\Desktop\my programs\Greatest_common_divisor\Greatest_common_divisor\bin\Debug\Greatest_common_divisor.exe.config
+C:\Users\rupatro\Desktop\my programs\Greatest_common_divisor\Greatest_common_divisor\bin\Debug\Greatest_common_divisor.exe
+C:\Users\rupatro\Desktop\my programs\Greatest_common_divisor\Greatest_common_divisor\bin\Debug\Greatest_common_divisor.pdb
+C:\Users\rupatro\Desktop\my programs\Greatest_common_divisor\Greatest_common_divisor\obj\Debug\Greatest_common_divisor.exe
+C:\Users\rupatro\Desktop\my programs\Greatest_common_divisor\Greatest_common_divisor\obj\Debug\Greatest_common_divisor.pdb

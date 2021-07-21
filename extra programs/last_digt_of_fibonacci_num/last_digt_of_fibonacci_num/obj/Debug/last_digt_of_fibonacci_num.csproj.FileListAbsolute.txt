@@ -1,0 +1,7 @@
+C:\Users\rupatro\Desktop\my programs\last_digt_of_fibonacci_num\last_digt_of_fibonacci_num\bin\Debug\last_digt_of_fibonacci_num.exe.config
+C:\Users\rupatro\Desktop\my programs\last_digt_of_fibonacci_num\last_digt_of_fibonacci_num\bin\Debug\last_digt_of_fibonacci_num.exe
+C:\Users\rupatro\Desktop\my programs\last_digt_of_fibonacci_num\last_digt_of_fibonacci_num\bin\Debug\last_digt_of_fibonacci_num.pdb
+C:\Users\rupatro\Desktop\my programs\last_digt_of_fibonacci_num\last_digt_of_fibonacci_num\obj\Debug\last_digt_of_fibonacci_num.csprojResolveAssemblyReference.cache
+C:\Users\rupatro\Desktop\my programs\last_digt_of_fibonacci_num\last_digt_of_fibonacci_num\obj\Debug\last_digt_of_fibonacci_num.csproj.CoreCompileInputs.cache
+C:\Users\rupatro\Desktop\my programs\last_digt_of_fibonacci_num\last_digt_of_fibonacci_num\obj\Debug\last_digt_of_fibonacci_num.exe
+C:\Users\rupatro\Desktop\my programs\last_digt_of_fibonacci_num\last_digt_of_fibonacci_num\obj\Debug\last_digt_of_fibonacci_num.pdb

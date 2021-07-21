@@ -1,0 +1,7 @@
+C:\Users\rupatro\Desktop\my programs\large_in_fibonacci_num\fibonacci_modp\fibonacci_modp\bin\Debug\fibonacci_modp.exe.config
+C:\Users\rupatro\Desktop\my programs\large_in_fibonacci_num\fibonacci_modp\fibonacci_modp\bin\Debug\fibonacci_modp.exe
+C:\Users\rupatro\Desktop\my programs\large_in_fibonacci_num\fibonacci_modp\fibonacci_modp\bin\Debug\fibonacci_modp.pdb
+C:\Users\rupatro\Desktop\my programs\large_in_fibonacci_num\fibonacci_modp\fibonacci_modp\obj\Debug\fibonacci_modp.csprojResolveAssemblyReference.cache
+C:\Users\rupatro\Desktop\my programs\large_in_fibonacci_num\fibonacci_modp\fibonacci_modp\obj\Debug\fibonacci_modp.csproj.CoreCompileInputs.cache
+C:\Users\rupatro\Desktop\my programs\large_in_fibonacci_num\fibonacci_modp\fibonacci_modp\obj\Debug\fibonacci_modp.exe
+C:\Users\rupatro\Desktop\my programs\large_in_fibonacci_num\fibonacci_modp\fibonacci_modp\obj\Debug\fibonacci_modp.pdb

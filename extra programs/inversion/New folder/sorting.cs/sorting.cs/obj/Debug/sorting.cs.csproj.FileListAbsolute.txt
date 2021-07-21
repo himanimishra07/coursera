@@ -1,0 +1,7 @@
+C:\Users\rupatro\Desktop\my programs\inversion\New folder\sorting.cs\sorting.cs\bin\Debug\sorting.cs.exe.config
+C:\Users\rupatro\Desktop\my programs\inversion\New folder\sorting.cs\sorting.cs\bin\Debug\sorting.cs.exe
+C:\Users\rupatro\Desktop\my programs\inversion\New folder\sorting.cs\sorting.cs\bin\Debug\sorting.cs.pdb
+C:\Users\rupatro\Desktop\my programs\inversion\New folder\sorting.cs\sorting.cs\obj\Debug\sorting.cs.csprojResolveAssemblyReference.cache
+C:\Users\rupatro\Desktop\my programs\inversion\New folder\sorting.cs\sorting.cs\obj\Debug\sorting.cs.csproj.CoreCompileInputs.cache
+C:\Users\rupatro\Desktop\my programs\inversion\New folder\sorting.cs\sorting.cs\obj\Debug\sorting.cs.exe
+C:\Users\rupatro\Desktop\my programs\inversion\New folder\sorting.cs\sorting.cs\obj\Debug\sorting.cs.pdb

@@ -1,0 +1,7 @@
+C:\Users\rupatro\Desktop\my programs\car fueling greedy algo\car_fueling\car_fueling\bin\Debug\car_fueling.exe.config
+C:\Users\rupatro\Desktop\my programs\car fueling greedy algo\car_fueling\car_fueling\bin\Debug\car_fueling.exe
+C:\Users\rupatro\Desktop\my programs\car fueling greedy algo\car_fueling\car_fueling\bin\Debug\car_fueling.pdb
+C:\Users\rupatro\Desktop\my programs\car fueling greedy algo\car_fueling\car_fueling\obj\Debug\car_fueling.csprojResolveAssemblyReference.cache
+C:\Users\rupatro\Desktop\my programs\car fueling greedy algo\car_fueling\car_fueling\obj\Debug\car_fueling.csproj.CoreCompileInputs.cache
+C:\Users\rupatro\Desktop\my programs\car fueling greedy algo\car_fueling\car_fueling\obj\Debug\car_fueling.exe
+C:\Users\rupatro\Desktop\my programs\car fueling greedy algo\car_fueling\car_fueling\obj\Debug\car_fueling.pdb

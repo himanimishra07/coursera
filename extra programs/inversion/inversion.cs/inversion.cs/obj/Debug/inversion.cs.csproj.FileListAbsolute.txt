@@ -1,0 +1,7 @@
+C:\Users\rupatro\Desktop\my programs\inversion\inversion.cs\inversion.cs\bin\Debug\inversion.cs.exe.config
+C:\Users\rupatro\Desktop\my programs\inversion\inversion.cs\inversion.cs\bin\Debug\inversion.cs.exe
+C:\Users\rupatro\Desktop\my programs\inversion\inversion.cs\inversion.cs\bin\Debug\inversion.cs.pdb
+C:\Users\rupatro\Desktop\my programs\inversion\inversion.cs\inversion.cs\obj\Debug\inversion.cs.csprojResolveAssemblyReference.cache
+C:\Users\rupatro\Desktop\my programs\inversion\inversion.cs\inversion.cs\obj\Debug\inversion.cs.csproj.CoreCompileInputs.cache
+C:\Users\rupatro\Desktop\my programs\inversion\inversion.cs\inversion.cs\obj\Debug\inversion.cs.exe
+C:\Users\rupatro\Desktop\my programs\inversion\inversion.cs\inversion.cs\obj\Debug\inversion.cs.pdb
